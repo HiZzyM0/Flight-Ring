@@ -28,7 +28,7 @@ flight sources are left untouched.
 
 ```
 💎 🔥 💎        D N D
-💎    💎   =   D   D     D = diamond, N = netherite ingot
+💎     💎   =   D   D     D = diamond, N = netherite ingot
 💎 💎 💎        D D D
 ```
 
